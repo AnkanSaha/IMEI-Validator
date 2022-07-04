@@ -1,0 +1,5 @@
+imei: "352408116819862"
+model:
+brand: "G-Mobile Devices Private Limited"
+device: "G-Mobile Devices Private Limited/INFINIX HOT 9 Pro"
+model_nb: "X655F"
